@@ -9,3 +9,5 @@
 ## HW4: Structure from Motion
 
 ## HW5: Different types of image representation + Classification models
+
+## Final: StyleCLR
