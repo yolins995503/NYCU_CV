@@ -1,0 +1,9 @@
+kornia
+numpy
+pandas
+pillow
+scipy
+tensorboard
+torch==1.9.0+cu102
+torchvision==0.10.0+cu102
+tqdm
